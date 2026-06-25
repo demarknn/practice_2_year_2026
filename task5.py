@@ -108,11 +108,11 @@ def generate_html():
 
         /* Стили для каждого шрифта */
         .font-official {
-            font-family: 'Raleway', sans-serif;
+            font-family: 'SynergySans', sans-serif;
         }
 
         .font-1 {
-            font-family: 'Times New Roman', serif;
+            font-family: 'Raleway', serif;
         }
 
         .font-2 {
@@ -176,14 +176,14 @@ def generate_html():
             <h2>Примеры шрифтов</h2>
 
             <div class="font-card">
-                <div class="font-name">Официальный шрифт Raleway</div>
+                <div class="font-name">Официальный шрифт SynergySans</div>
                 <div class="sample-text font-official">
                     Университет «Синергия» — образование для успешной карьеры.
                 </div>
             </div>
 
             <div class="font-card">
-                <div class="font-name">Вариант 1: Times New Roman</div>
+                <div class="font-name">Вариант 1: Raleway</div>
                 <div class="sample-text font-1">
                     Университет «Синергия» — образование для успешной карьеры.
                 </div>
